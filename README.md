@@ -18,3 +18,4 @@ We would love your suggestions and feedback. Please review our [Guidelines for C
 
 ## License
 
+[Creative Commons Attribution 4.0](https://github.com/drud/sprint_guide/blob/master/LICENSE.md)
