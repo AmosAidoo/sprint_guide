@@ -230,7 +230,7 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 > **Tip:** Use a dedicated project management tool to manage tasks. The Drupal Ireland community has used [Trello](https://trello.com/), for example, to create and assign tasks. As you read through the list below, keep in mind that as a leader, you should be overseeing work and delegating as much as possible to your team of volunteers. Delegating gives others investment and ownership and prepares the way for future community leaders to take over next time.
 
-**Two+ months before **
+**Two+ months before**
 
 * Visit the venue: Take photos. Start planning what signage you’ll need. How many power outlets are there? Start thinking about room layouts, quiet areas, break locations, and so on.
 
