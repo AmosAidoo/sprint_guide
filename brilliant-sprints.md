@@ -49,11 +49,9 @@ Eventbrite’s [10 Ways To Make Your Events More Accessible For Disabled Attende
 
 **2. Safety and security -** Laptops being stolen[ ](https://www.liip.ch/en/blog/personal-report-about-drupal-developer-days-milano-2016)or people endangered at an event are the last things anyone wants. Ensure your participants are safe and that they know know they are safe. Assign a lead volunteer to be in charge of security and safety.
 
-Prepare for the worst case scenario and develop an Emergency Plan. Depending on what your venue provides you may or may not need insurance to cover potential issues. Depending on the laws in your country or region you have responsibilities for the health and safety of your event attendees. Check with your local authorities and your venue. Regional example:
+Prepare for the worst case scenario and develop an Emergency Plan. Depending on what your venue provides you may or may not need insurance to cover potential issues. Depending on the laws in your country or region you have responsibilities for the health and safety of your event attendees. Check with your local authorities and your venue. Regional example: The UK Health and Safety Executive gives [this advice on event safety](http://www.hse.gov.uk/event-safety/incidents-and-emergencies.htm).
 
-The UK Health and Safety Executive gives [this advice on event safety](http://www.hse.gov.uk/event-safety/incidents-and-emergencies.htm).
-
-> **_Tip: _***Remind people to watch their valuables. Attendees bring expensive computers and equipment to tech events. They should not leave valuables alone, even "just for a minute." You may be in the midst of your lovely, generous, open source community, but not giving anyone–and you don’t know who has access to your venue–opportunities like these is the easiest way to prevent theft. Don’t give them one. *
+> **Tip:** Remind people to *watch their valuables.* Attendees bring expensive computers and equipment to tech events. They should not leave valuables alone, even "just for a minute." You may be in the midst of your lovely, generous, open source community, but not giving anyone–and you don’t know who has access to your venue–opportunities like these is the easiest way to prevent theft. Don’t give them one.
 
 **3. Guidelines around collaboration, behavior, and etiquette -** Your open source project should have clear contribution guidelines and coding standards. Just starting out? You can follow this OpenSource.com [template for creating open source contributor guidelines](https://opensource.com/life/16/3/contributor-guidelines-template-and-tips) or have a look at GutHub’s [standard for contributor guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/). Your guidelines should clearly reflect the norms of collaboration and accountability in your project.
 
@@ -63,7 +61,7 @@ Does your community already have a code of conduct for events? If not, now is th
 
 ## **1 - Why:** The reason we’re all here 
 
-"The in-person code sprints at community events do produce new patches, but I contend their primary purpose is to create and strengthen the interpersonal relationships that make our otherwise remote collaboration on the project so successful." - Jeffrey A. "jam" McGuire, Open Strategy Partners
+> "The in-person code sprints at community events do produce new patches, but I contend their primary purpose is to create and strengthen the interpersonal relationships that make our otherwise remote collaboration on the project so successful." - Jeffrey A. "jam" McGuire, Open Strategy Partners
 
 Contribution sprints are a core activity and a sign of a healthy open source software community. They are as much about the community, as they are the code. The in-person interactions, cracking tough problems together face-to-face, laughing, struggling, and getting work done together create the relationships that make productive, respectful, online collaboration the rest of the year possible. Sprints are where a lot of code, a little bit of magic, and "community glue" happen. 
 
@@ -87,7 +85,7 @@ Don’t wait until after the event to prepare post-event communications. Gather 
 
 Don’t forget that while the sprint is a time-boxed event, you want the results to be long-lasting. Working together is a social activity, and a code sprint is a social event. Because of this, social bonding is as important as completing each task. The tasks serve to focus collaboration, but the primary purpose is to help forge good working relationships for the future. The time people spend socialising is a chance to reinforce the friendships. Plan for time where people are taking breaks together. If you have many people coming from out of town, can you arrange a tour? A meal together away from the venue?
 
-> **Tip: Celebrate contribution as you go. **At DrupalCon contribution sprints, there is a ceremony for someone’s first patch being committed to Drupal core. Check out Jeffrey A. "jam" McGuire’s Acquia Podcast episode *[137: First patch! Matt Moen, DrupalCon Austin, and a village of contributor*s](https://dev.acquia.com/podcast/137-first-patch-matt-moen-drupalcon-austin-and-village-contributors).
+> **Tip:** Celebrate contribution as you go. At DrupalCon contribution sprints, there is a ceremony for someone’s first patch being committed to Drupal core. Check out Jeffrey A. "jam" McGuire’s Acquia Podcast episode *[137: First patch! Matt Moen, DrupalCon Austin, and a village of contributor*s](https://dev.acquia.com/podcast/137-first-patch-matt-moen-drupalcon-austin-and-village-contributors).
 > From the podcast post: "... a patch written by Matt Moen, Technical Director at Kilpatrick Design, was selected for fast-track testing, approval, and was committed to Drupal 8 core in front of a few hundred of us at the Austin convention center. … The First-Patch "ritual" is a celebration of what we do in Drupal and open source software (check out the energy in the room in the 2nd video!). Remote collaboration can feel abstract and lonely. By highlighting one patch, its creator, and all those who got it ready for approval and inclusion in the Drupal codebase, the community has a concrete moment to focus on when it is "really real" and happening right in front of you.
 
 ### Communications before the event
@@ -110,7 +108,7 @@ By considering all of the aspects of running a sprint that we touch on in this g
 
 Be clear with your volunteer and organizing teams about the roles and responsibilities involved in ensuring you have a fun, productive sprint. Take time early on to define the roles you need and what your expectations are. In your communications, be clear about who is handling what, and how people can contact those individuals. Also consider the types of participants you have, what they expect, and what you expect of them. 
 
-Here are some typical, useful sprint team roles:
+Here are some typical sprint team roles:
 
 * **Event and Sprint Leads - in charge of the overall event**
 
@@ -122,9 +120,9 @@ Here are some typical, useful sprint team roles:
 
 * **Project Leads - in charge of specific contribution areas or projects**
 
-    * Adjudicate decisions at the sprint
+    * Adjudicate decisions at the sprint.
 
-    * Points-of-contact for their initiative, project, or area
+    * Points-of-contact for their initiative, project, or area.
 
     * If you are planning a multi-day sprint, project leads should consider scheduling specific dates and times for focused, time-boxed collaboration within the larger event.
 
@@ -136,7 +134,7 @@ Here are some typical, useful sprint team roles:
 
     * How many mentors do you need? Drupal.org’s [guide for core mentoring](https://www.drupal.org/core-mentoring/sprint-resources) recommends one mentor for every eight participants.
 
-    * If your sprint is focused on Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, or Wordpress, with **DDEV-Local you can get local instances of your CMS up and working on participants’ MacOS, Linux, and Windows computers in minutes.**
+    * If your sprint is focused on Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, or Wordpress, with **[DDEV-Local](https://ddev.drud.com/) you can get local instances of your CMS up and working on participants’ MacOS, Linux, and Windows computers in minutes.**
 
 * **Participants - the folks who will come in to contribute and collaborate**
 
@@ -148,7 +146,7 @@ Here are some typical, useful sprint team roles:
 
     * If you have sprint registration and mentors, ask participants about their experience level to help sort and prepare them for contribution.
 
-    * At code sprints, help them get their local development environment set up.
+    * At code sprints, help them get their [local development environment set up](https://ddev.drud.com/).
 
 * **Teams or groups**
 
@@ -166,9 +164,9 @@ Ask your mentors and leads to prepare an orientation guide for people as they co
 
 If you can run this orientation in the morning as a group, that’s great. If your sprint is running alongside or as part of another event such as a camp or conference, it’s likely you’ll get ad-hoc drop-ins. You’ll need to welcome and orient them, too. 
 
-The [Open Source Bridge wik](http://opensourcebridge.org/wiki/2009/Effective_code_sprinting)i suggests organizing the day in short iterations, such as 45 mins. You could also repeat welcome sessions around meals and social break times. Use these to remind people of the essentials (ground rules, emergency exits, etc.) and to help new arrivals get their tools set up, find the right task or project, and so on. 
+The [Open Source Bridge wiki](http://opensourcebridge.org/wiki/2009/Effective_code_sprinting) suggests organizing the day in short iterations, such as 45 mins. You could also repeat welcome sessions around meals and social break times. Use these to remind people of the essentials (ground rules, emergency exits, etc.) and to help new arrivals get their tools set up, find the right task or project, and so on. 
 
-> **Tip: Keep a numbered sign-in sheet **as people come in to help track how many attendees you’ve had during the sprint. Open source communities and event attendees love statistics and numbers. Tracking attendee numbers, patches, contributions, cups of coffee consumed, and so on makes for great sharing on social media and can be a great source of motivation for your community.
+> **Tip:** Keep a numbered sign-in sheet as people come in to help track how many attendees you’ve had during the sprint. Open source communities and event attendees love statistics and numbers. Tracking attendee numbers, patches, contributions, cups of coffee consumed, and so on makes for great sharing on social media and can be a great source of motivation for your community.
 
 ## 3 - What: What are you working on? 
 
@@ -186,7 +184,7 @@ Set up a page in your community’s site or in documentation for the sprint. Mak
 
 ### Three ways to make it easier for newcomers to contribute
 
-**Helping new contributors get set up makes a huge impact -** [Researchers have found](https://www.drud.com/removing-the-biggest-barrier-to-contribution/) that the biggest barrier to open source code contribution is getting a local environment set up. Newcomers who spend a long time getting set up find it frustrating and demotivating. We’re helping sprint organizers resolve that with DDEV-Local, which provides a repeatable, quick and easy-to-install development environment. Check out [how to install DDEV](https://ddev.readthedocs.io/en/latest/#installation) and install the CMS of your choice (currently Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, and Wordpress) and [sign up for our newsletter](http://eepurl.com/dlqkUD) to keep up-to-date with the latest developments around DDEV. 
+**Helping new contributors get set up makes a huge impact -** [Researchers have found](https://www.drud.com/removing-the-biggest-barrier-to-contribution/) that the biggest barrier to open source code contribution is getting a local environment set up. Newcomers who spend a long time getting set up find it frustrating and demotivating. We’re helping sprint organizers resolve that with DDEV-Local, which provides a repeatable, quick and easy-to-install development environment. Check out [how to install DDEV](https://ddev.readthedocs.io/en/latest/#installation) and install the CMS of your choice (currently Drupal 7, Drupal 8, TYPO3 CMS, Backdrop CMS, and Wordpress) and please [sign up for our newsletter](http://eepurl.com/dlqkUD) to keep up-to-date with the latest developments around DDEV. 
 
 **Show them where they can help -** When preparing for your sprint, project leads should collect issues that need addressing for each project. To make it easier for people to find places they can share their expertise and enthusiasm, one recommendation is to group the issues by type of work, or expertise needed. Mozilla’s advice for newcomers on participation basics recommends that new people should "find a project you’re interested in." How are your participants going to do that? See how [Mozilla’s Global Sprint Days](http://mzl.la/global-sprint) are [organised by project](https://foundation.mozilla.org/projects/) for some ideas. 
 
@@ -198,7 +196,7 @@ Set up a page in your community’s site or in documentation for the sprint. Mak
 
 ## 4 - Where: The venue
 
-"The primary requirement for a sprint is to provide a working environment." - [Art of Community](http://www.artofcommunityonline.org/), Jono Bacon
+> "The primary requirement for a sprint is to provide a working environment." - [Art of Community](http://www.artofcommunityonline.org/), Jono Bacon
 
 When everything works at a venue, no one seems to notice. When something basic goes wrong, it’s all people can remember. Bad wifi? Too hot? Too cold? No coffee? Not wheelchair accessible? Weird table configuration? Not enough flip charts? Boom! Disaster.
 
@@ -234,7 +232,7 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 **Two+ months before **
 
-* Visit the venue: Take photos. Start planning what signage you’ll need. How many power outlets are there? Start thinking about room layouts, quiet ares, break locations, and so on.
+* Visit the venue: Take photos. Start planning what signage you’ll need. How many power outlets are there? Start thinking about room layouts, quiet areas, break locations, and so on.
 
 * Budgeting! Determine the costs to set a target for fundraising. Check with the venue: What’s included? What insurance is provided? Do you need to pay a deposit? Is there a minimum charge for catering, coffee and tea, or other amenities? What equipment do you need? How many people can you host? 
 
@@ -262,7 +260,7 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 * Promote the event to participants. Who can share your messages? Such as local colleges, coding communities, your local OSS community, etc. 
 
-* Social media sharing. Schedule and automate social media sharing and sponsorship thank-yous with a tool like [Buffer](https://buffer.com/). See the section of this guide on [Communications before the event](https://docs.google.com/document/d/1kk3zRXGxdqT1_IDS5Vi4PGjS73rleceQDJ1xT54ikso/edit#bookmark=id.z8a99l4134vj).
+* Social media sharing. Schedule and automate social media sharing and sponsorship thank-yous with a tool like [Buffer](https://buffer.com/). See the section of this guide on Communications before the event.
 
 **Two weeks before**
 
@@ -300,9 +298,9 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 * Gather contact information for volunteers. 
 
-**Day before **
+**Day before**
 
-* Check your checklist and your sprint team box
+* Check your checklist and your sprint team box.
 
 * Get good sleep!
 
@@ -312,7 +310,7 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 * Check with catering	
 
-**Morning of the event **
+**Morning of the event**
 
 * Grab your sprint team box and go!
 
@@ -346,13 +344,13 @@ Start preparing your project plan to prioritize what needs to happen when. How m
 
 ### Running the event on the day
 
-If you’re running your sprint as part of of alongside another event, it’s likely you’ll get a rush of attendees at the start of the sprint, and after event breaks. You should plan on managing drop-ins. See the section of this guide: [Prepare (and repeat) a welcome orientation](#bookmark=kix.47uhetja3odj). 
+If you’re running your sprint as part of of alongside another event, it’s likely you’ll get a rush of attendees at the start of the sprint, and after event breaks. You should plan on managing drop-ins. See the section of this guide: Prepare (and repeat) a welcome orientation. 
 
 Another idea to encourage breaks is to break up the day into shorter sprints. Depending on the size and length of your code sprint you may way to allow Project Leads to schedule specific times or dates to work on their projects during the overall sprint to better time-box collaboration. 
 
 Make sure it’s clear at any point who is available to help. Your sprint volunteers may act as runners or butterflies, handling issues as they come up. Make sure you have all your volunteers’ contact information and the permission to share it with sprinters. Twitter group DMs, a WhatsApp group, or similar solutions can help with group communications. 
 
-> **Tip: Sprint team uniform.** Sprints leads and volunteers at many events wear a special coloured t-shirt to make it easier for participants to spot volunteers who were there to help. If you’re printing up event t-shirts in any case, most vendors will print enough for your sprint volunteers on different coloured fabric at minimal additional cost. 
+> **Tip:** Sprint team uniform. Sprints leads and volunteers at many events wear a special coloured t-shirt to make it easier for participants to spot volunteers who were there to help. If you’re printing up event t-shirts in any case, most vendors will print enough for your sprint volunteers on different coloured fabric at minimal additional cost. 
 
 ## 6 - Your Sprint Team Box
 
