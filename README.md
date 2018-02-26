@@ -14,7 +14,9 @@ This guide is for open source community leaders who are running contribution spr
 
 ## Want to contribute?
 
-We would love your suggestions and feedback. Please review our [Guidelines for Contributing](https://github.com/drud/ddev/blob/master/CONTRIBUTING.md) To collaborate on the sprint guide, create an issue in this repo or open a pull request. 
+We would love your suggestions and feedback. To collaborate on the sprint guide, create an issue in this repo or open a pull request. 
+- Please see our [DRUD Community Guide](https://github.com/drud/community) for info about our social guidelines.
+- Please review our [Guidelines for Contributing](https://github.com/drud/ddev/blob/master/CONTRIBUTING.md) 
 
 ## License
 
