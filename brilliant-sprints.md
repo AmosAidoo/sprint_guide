@@ -356,7 +356,7 @@ Make sure it’s clear at any point who is available to help. Your sprint volunt
 
 Get a big container and start adding supplies to your Sprint Team Box as soon as you begin event planning. 
 
-* **A clipboard to organize your paperwork for the day **
+* **A clipboard to organize your paperwork for the day**
 
     * Your customized checklist for what is in the box and what you need to do.
 
