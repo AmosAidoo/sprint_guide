@@ -12,6 +12,10 @@ Advice and consideration to ensure you have a successful contribution sprint.
 
 This guide is for open source community leaders who are running contribution sprints. You’re a sprint leader and you want to make sure your event is fun and productive. 
 
+## What is the DDEV Quick Sprint?
+
+We created [a turnkey method](https://github.com/drud/quicksprint) that bundles all of the files and local development management necessary for a Drupal 8 sprint in a way that does not rely on internet access to work. 
+
 ## Want to contribute?
 
 We would love your suggestions and feedback. To collaborate on the sprint guide, create an issue in this repo or open a pull request. 
